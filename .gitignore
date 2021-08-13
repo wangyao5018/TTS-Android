@@ -7,7 +7,6 @@
 .externalNativeBuild
 .cxx
 .idea
-*.apk
 /app/release
 /app/sandbox
 /app/debug
